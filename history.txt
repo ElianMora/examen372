@@ -1,0 +1,502 @@
+    7  nano loops.sh
+    8  ./code loops.sh
+    9  cd ..
+   10  ./code loops.sh
+   11  ./code
+   12  start code
+   13  exit
+   14  git init
+   15  git status
+   16  git add
+   17  git add .
+   18  git commit  -m Hola Git
+   19  git commit -m "hola"
+   20  git config --global user.name ElianMora
+   21  git commit -m "hola"
+   22  git config --global user.name ElianMora elian.nuno@uabc.edu.mx
+   23  git commit -m "hola"
+   24  git config --global user.email elian.nuno@uabc.edu.mx
+   25  git commit -m "hola"
+   26  git config --global user.name ElianMora elian.nuno@uabc.edu.mx
+   27  git commit -m "hola"
+   28  git add .
+   29  git add 
+   30  git add .
+   31  git status
+   32  git status
+   33  git branch -M main
+   34  git remote add origin C:\Users\Mantenimiento\Documents\PracticasDSW
+   35  git remote add origin D:\clases\Sitios web
+   36  git remote add origin D:\clases\Sitios web
+   37  git remote add origin C:\Users\Mantenimiento\Documents\PracticasDSW
+   38  git push -u origin main
+   39  git push -u origin main
+   40  cd desktop
+   41  cat Ahua.txt 
+   42  cd.
+   43  cd ..
+   44  git init
+   45  status
+   46  git status
+   47  git add .
+   48  git config --global user.name ElianMora
+   49  git config --global user.name ElianMora elian.nuno@uabc.edu.mx
+   50  git branch -M main
+   51  git remote add origin C:\Users\Mantenimiento\Documents\PracticasDSW
+   52  git push -u origin main
+   53  git remote add origin https://github.com/ElianMora/PracticasDSW.git
+   54  git remote rm origin
+   55  git remote add origin https://github.com/ElianMora/PracticasDSW.git
+   56  git push -u origin main
+   57  git push -u origin main
+   58  git status
+   59  git commit -m "AHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+   60  git push -u origin main
+   61  git push 
+   62  git status
+   63  git add .
+   64  git commit -m "AHUAAAAAAAAAAAAAA"
+   65  git push 
+   66  history > historyDSW.txt
+   67  history
+   68  cd desktop
+   69  mkdir project1
+   70  cd project1/
+   71  touch historia.txt
+   72  code .
+   73  code historia.txt
+   74  git pull
+   75  git init
+   76  git status
+   77  cd documents
+   78  cd PracticasDSW/
+   79  git status
+   80  git add practica 2
+   81  git add practica 2
+   82  git add practica2
+   83  git status
+   84  git commit -m "Practica numero 2"
+   85  git push
+   86  git add practica3
+   87  git status
+   88  git commit -m "Practica numero 3"
+   89  git push
+   90  git add practica4/
+   91  git status
+   92  git commit -m "practica numero 4"
+   93  git add practica5/
+   94  git status
+   95  git commit -m "practica numero 5"
+   96  git add practica6/
+   97  git status
+   98  git commit -m "practica numero 6"
+   99  git add practica7/
+  100  git status
+  101  git commit -m "practica numero 7"
+  102  git add practica8/
+  103  git status
+  104  git add practica8/
+  105  git status
+  106  git commit -m "practica numero 8"
+  107  git push
+  108  git add practica9/
+  109  git status
+  110  git commit -m "practica numero 9"
+  111  git push
+  112  git add practica10/
+  113  git status
+  114  git commit -m "practica numero 10"
+  115  git commit -m "practica numero 10"
+  116  git push
+  117  git add practica11/
+  118  git status
+  119  git commit -m "practica numero 11"
+  120  git push
+  121  git add practica12/
+  122  git status
+  123  git commit -m "practica numero 12"
+  124  git push
+  125  git add practica13/
+  126  git status
+  127  git commit -m "practica numero 13"
+  128  git push
+  129  git add practica14/
+  130  git status
+  131  git commit -m "practica numero 14"
+  132  git push
+  133  git add practica15/
+  134  git status
+  135  git commit -m "practica numero 15"
+  136  git push
+  137  git add practica17/
+  138  git status
+  139  git commit -m "practica numero 17"
+  140  git push
+  141  git add practica18/
+  142  git status
+  143  git commit -m "practica numero 18"
+  144  git push
+  145  git add practica19/
+  146  git status
+  147  git commit -m "practica numero 19"
+  148  git push
+  149  git add practica20/
+  150  git status
+  151  git commit -m "practica numero 20"
+  152  git add practica21/
+  153  git status
+  154  git commit -m "practica numero 21"
+  155  git push
+  156  git add practica22/
+  157  git status
+  158  git commit -m "practica numero 22"
+  159  git push
+  160  git add practica23/
+  161  git status
+  162  git commit -m "practica numero 23"
+  163  git push
+  164  git add Examen/
+  165  git status
+  166  git commit -m "Examen numero 1"
+  167  git push
+  168  git init
+  169  cd Documents/
+  170  cd PracticasDSW/
+  171  git status
+  172  git status
+  173  git status
+  174  git add practica24/
+  175  git status
+  176  git commit -m "Primera practica Calculadora JS"
+  177  git push
+  178  git pull
+  179  git push
+  180  git status
+  181  git add practica25/
+  182  git status
+  183  git commit -m "Pracitca donde se uso un array para varias funciones"
+  184  git push
+  185  git exit
+  186  git help
+  187  cd desktop
+  188  code .
+  189  history
+  190  cd myfiles/
+  191  cd bashscripting/
+  192  ./ createp.sh 
+  193  ./createp.sh 
+  194  exit
+  195  [A
+  196  git status
+  197  git add
+  198  git add README.md 
+  199  git log
+  200  git commit
+  201  git commit -m "hola"
+  202  status log
+  203  git log
+  204  git log --onelien
+  205  git log --oneline
+  206  exit
+  207  cd ..
+  208  cd..
+  209  cd ..
+  210  cd ..
+  211  cd d
+  212  cd clases/
+  213  cd Sitios\ web/
+  214  git init
+  215  git config --global user.email elian.nuno@uabc.edu.mx
+  216  git clone https://github.com/ElianMora/PracticasDSW.git
+  217  git status
+  218   git config --global --add safe.directory 'D:/clases/Sitios web'
+  219  git status
+  220  cd PracticasDSW/
+  221  git status
+  222   git config --global --add safe.directory 'D:/clases/Sitios web/PracticasDSW'
+  223  git status
+  224  git add practica26
+  225  git status
+  226  git commit -m "Practica IF comparar 2 numeros"
+  227  git push
+  228  git add practica27/
+  229  git commit -m "Practica calcular peso en diferentes planetas con IF y WHILE"
+  230  git push
+  231  cd..
+  232  cd ..
+  233  cd ..
+  234  cd Python/
+  235  cd ClasePython/
+  236  git status
+  237  git status
+  238  git add createp.sh 
+  239  git status
+  240  git status
+  241  git commit -m "Version inicial de mi script"
+  242  git status
+  243  git 
+  244  git status
+  245  git show
+  246  git diff
+  247  git add createp.sh 
+  248  git commit -m "Se agrego el README"
+  249  git show
+  250  git status
+  251  git commit -am "agregue el titulo al README"
+  252  git log --oneline
+  253  git diff cf0325f 67cb895
+  254  exit
+  255  git statis
+  256  git status
+  257  cd ClasePython/
+  258  git status
+  259  git add createp.sh 
+  260  git commit -m "Bug 201a: Arregle la ruta"
+  261  ./createp.sh 
+  262  git log --oneline
+  263  git checkout 67cb895
+  264  git switch -c <bug201a>
+  265  git switch -c bug201a
+  266  git log --oneline
+  267  git switch main
+  268  git log --oneline
+  269  git switch bug201a
+  270  git status
+  271  git add createp.sh 
+  272  git commit -m "git 201a arreglado poniendo ruta completa"
+  273  git switch main
+  274  git switch main
+  275  exit
+  276  cd Desktop/
+  277  history > history8.html
+  278  history
+  279  cd desktop
+  280  history> history8.txt
+  281  cd desktop
+  282  history > history9.txt
+  283  git log --oneline
+  284  git status
+  285  git log --oneline --all
+  286  git log --oneline --all --graph
+  287  git log --oneline --all --decorate
+  288  git log --oneline --all --graph --decorate
+  289  git branch -v
+  290  exit
+  291  exit
+  292  cd desktop
+  293  mkdir 3722023-2; cd 3722023-2
+  294  [200~echo "# 3722023-2" >> README.md
+  295  git init
+  296  git add README.md
+  297  git commit -m "first commit"
+  298  git branch -M main
+  299  git remote add origin https://github.com/ElianMora/3722023-2.git
+  300  echo "# 3722023-2" >> README.md
+  301  git init
+  302  git add README.md
+  303  git commit -m "first commit"
+  304  git branch -M main
+  305  git remote add origin https://github.com/ElianMora/3722023-2.git
+  306  git push -u origin main
+  307  git config --list
+  308  git status
+  309  git branch --all
+  310  touch main.py
+  311  echo "print('Segundo bommit')" >> main.py 
+  312  git status
+  313  cat main.py 
+  314  echo "print('Segundo commit')" >> main.py 
+  315  cat main.py 
+  316  echo "print('Segundo commit')" > main.py 
+  317  cat main.py 
+  318  git add main.py
+  319  git commit -m "Segundo commit intencionado"
+  320  git log --oneline
+  321  git push
+  322  git log --oneline
+  323  exit
+  324  cd desktop
+  325  history>history1o.txt
+  326  cd ..
+  327  cd ..
+  328  cd ..
+  329  cd d
+  330  cd clases/
+  331  cd Sitios\ web/
+  332  cd PracticasDSW/
+  333  git add practica28
+  334  git commit -m "trabajo de ciclos con operacionse y arreglos"
+  335  git push
+  336  git add practica29
+  337  git commit  -m "Trabajo con ejemplos de for, for in, for each y for of "
+  338  git push
+  339  git add practica30 
+  340  git commit -m "Practica donde se hizo ejemplos de funciones y una funcion de calculadora"
+  341  git push
+  342  git add practica31/
+  343  git commit -m "practica de las 7 maravillas, junto con comentarios"
+  344  git push
+  345  history
+  346  cd desktop
+  347  mkdir prueba
+  348  cd prueba/
+  349  git init
+  350  touch test
+  351  ls
+  352  touch test.txt
+  353  ls
+  354  mv test > test2.txt
+  355  mv test test2.txt
+  356  ls
+  357  cat test.txt
+  358  rm test2.txt 
+  359  ls
+  360  echo "hola esta es una prueba" > test.txt 
+  361  cat test.txt
+  362  nano
+  363  git status
+  364  git add test.txt 
+  365  git commit -m "primer commit"
+  366  git log --oneline
+  367  git log --oneline -- graph --decorate --all
+  368  git log --oneline --graph --decorate --all
+  369  eco "un pequeno extra para test">> test.txt 
+  370  echo "un pequeno extra para test">> test.txt 
+  371  cat test.txt 
+  372  git add test.txt 
+  373  git commit "Se agrego una linea"
+  374  git commit -m "Se agrego una linea"
+  375  git log --oneline --graph --decorate --all
+  376  git checkout f988788
+  377  git log --oneline --graph --decorate --all
+  378  echo "esta es otra rama" >> test.txt 
+  379  cat test.txt 
+  380  git add
+  381  git add test.txt 
+  382  git commit -m "puse una linea diferente"
+  383  git log --oneline --graph --decorate --all
+  384  git switch main
+  385  git checkout master
+  386  git log --oneline --graph --decorate --all
+  387  echo "hola" >>test.txt 
+  388  git add test.txt 
+  389  git commit -m "hola"
+  390  git log --oneline --graph --decorate --all
+  391  git checkout d6808c5
+  392  git log --oneline --graph --decorate --all
+  393  cat test.txt 
+  394  git checkout c9787a1
+  395  git log --oneline --graph --decorate --all
+  396  git log --oneline --graph --decorate --all
+  397  git switch master
+  398   git branch <new-branch-name> c9787a1
+  399   git branch c9787a1
+  400  git log --oneline --graph --decorate --all
+  401  git log --oneline --graph --decorate --all
+  402  cat test.txt 
+  403  echo "ahhhhhhhhhhhh" >> test.txt 
+  404  git add test.txt 
+  405  git commit -m "PAIN"
+  406  git log --oneline --graph --decorate --all
+  407  switch c9787a1
+  408  git switch c9787a1
+  409  git log --oneline --graph --decorate --all
+  410  cat test.txt 
+  411  git checkout c9797a1
+  412  git checkout c9787a1
+  413  git log --oneline --graph --decorate --all
+  414  git log --oneline --graph 
+  415  git new branch DOLOR
+  416  git branch dolor
+  417  git log --oneline --graph 
+  418  git log --oneline --graph --decorate --all
+  419  echo "que esta pasando" >> test.txt 
+  420  cat test.txt 
+  421  git add test.txt 
+  422  git commit -m "no se que esta pasando"
+  423  git log --oneline --graph --decorate --all
+  424  git switch master
+  425  git log --oneline --graph --decorate --all
+  426  git merge c9787a1 
+  427  merge branch c9787a1
+  428  nano test.txt 
+  429  git log --oneline --graph --decorate --all
+  430  git merge c9787a1 
+  431  git merge c9787a1 
+  432  git status
+  433  git add test.txt 
+  434  git commit -m "merge"
+  435  git log --oneline --graph --decorate --all
+  436  git branch -v
+  437  history > historyTest.txt 
+  438  cd ..
+  439  cd ..
+  440  cd ..
+
+ # Inicio de examen 
+  441  cd d
+  442  cd clases/
+  443  cd Python/
+  444  mkdir examen
+  445  cd examen/
+  446  cd ..
+  447  cd ..
+  448  cd Desktop/
+  449  mkdir examen
+  450  cd examen/
+  451  git clone https://gist.github.com/c514e789859c9107c63ab99efe27735d.git
+  452  history
+  453  exit
+  454  cd ~
+  455  mkdir examen372-2
+  456  cd examen372-2/
+  457  touch create.sh >> "#! /bin/bash"
+  458  touch create.sh > "#! /bin/bash"
+  459  tree
+  460  touch create.sh
+  461  echo "#! /bin/bash" >> create.sh 
+  462  git init
+  463  git add
+  464  git add create.sh 
+  465  it commit -m "Initial commit, script added"
+  466  it commit -m "Initial commit, script added"
+  467  git commit -m "Initial commit, script added"
+  468  nano create.sh 
+  469  exit
+  470  ./create.sh 
+  471  tree
+  472  tree
+  473  ./create.sh 
+  474  tree
+  475  exit
+  476  cd ..
+  477  cd Desktop/
+  478  cd examen/
+  479  cd c514e789859c9107c63ab99efe27735d/
+  480  tree
+  481  mv examen372.md ../../../examen372-2/
+  482  cd ..
+  483  cd ..
+  484  cd ..
+  485  cd examen372-2/
+  486  tree
+  487  xit
+  488  exit
+  489  tree
+  490  mv examen372.md README.md
+  491  tree
+  492  it status
+  493  git status
+  494  git log
+  495  git add create.sh 
+  496  it commit -m "Second commit, structure created"
+  497  git commit -m "Second commit, structure created"
+  498  git log
+  499  git log --oneline
+  500  exit
+  501  git add create.sh README.md 
+  502  it commit -m "Third commit, add README.md and final script updated"
+  503  git commit -m "Third commit, add README.md and final script updated"
+  504  git log --oneline
+  505  istory > history.txt
+  506  history > history.txt
